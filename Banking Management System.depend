@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1785067580 source:c:\users\nhlaka\desktop\banking management system\main.cpp
+	<iostream>
+	"Bank.h"
+
+1784990853 c:\users\nhlaka\desktop\banking management system\include\bank.h
+	<iostream>
+	<string>
+	"Customer.h"
+	"Account.h"
+	"Transaction.h"
+
+1784913919 c:\users\nhlaka\desktop\banking management system\include\customer.h
+	<iostream>
+	<string>
+
+1785067625 c:\users\nhlaka\desktop\banking management system\include\account.h
+	<iostream>
+	<string>
+
+1784988161 c:\users\nhlaka\desktop\banking management system\include\transaction.h
+	<iostream>
+	<string>
+
+1785069108 source:c:\users\nhlaka\desktop\banking management system\src\account.cpp
+	"Account.h"
+
+1785068220 source:c:\users\nhlaka\desktop\banking management system\src\bank.cpp
+	"Bank.h"
+
+1785068287 source:c:\users\nhlaka\desktop\banking management system\src\customer.cpp
+	"Customer.h"
+
+1785068373 source:c:\users\nhlaka\desktop\banking management system\src\transaction.cpp
+	"Transaction.h"
+
